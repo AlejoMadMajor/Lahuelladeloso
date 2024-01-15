@@ -1,30 +1,26 @@
-# Code Crafts Man Pro
+# La Huella del Oso
 
-A personal portfolio of Alejandro served up at [codecraftsmanpro.netlify.app](codecraftsmanpro.netlify.app) and hosted on [Netlify](http://www.netlify.com)
+An environment for all of La Huella del Oso hosted on [4everland](https://www.4everland.org/)
 
 ## Overview
 
-Welcome to my site, your destination to explore a world of design, development, and creativity. We are a passionate team of designers, programmers, and web developers, and this is where we share our creations and projects.
+Welcome to our site, your destination to explore a world of stories, events, and much more. We are a passionate team of designers, programmers, and web developers, and this is where we share our creations and projects.
 
 ## Getting Started
 
 To explore our work and learn more about us, simply browse through our projects and discover the diversity and creativity we offer.
 
-We hope you enjoy your time at [Code Crafts Man Pro](codecraftsmanpro.netlify.app) as much as we enjoy creating it! If you have any questions or comments, please feel free to get in touch with us.
+We hope you enjoy your time at [La Huella del Oso](codecraftsmanpro.netlify.app) as much as we enjoy creating it! If you have any questions or comments, please feel free to get in touch with us.
 
 Thank you for visiting!
 
-### What We Offer
+### What We Have?
 
-- **Creative Design:** Explore our gallery of unique designs, from logos to illustrations and user interface design.
+- **Podcast:** Explore our gallery of unique chapters full of expirience and memories.
 
-- **Advanced Development:** Discover our work in web development, applications, and innovative technological solutions.
+- **Merchandising:** Discover our work in web art, hoodies, and innovative cosmovision.
 
-- **Diverse Portfolio:** We have experience in a variety of industries, from e-commerce to informational websites.
-
-## "La Huella del Oso" Project
-
-Check out our latest project, "La Huella del Oso," a captivating podcast that explores a wide range of topics, including a shop to enjoy our design in your clothes. [La Huella del Oso](https://lahuelladeloso.space).
+- **NFT's:** We have experience in a variety of industries, from blockchain to interact with our website.
 
 
 ### Why Choose Us?
